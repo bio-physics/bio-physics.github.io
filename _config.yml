@@ -24,7 +24,7 @@ github_username:  roshan2004
 
 # Build settings
 markdown: kramdown
-theme: jekyll-anthena
+theme: jekyll-athena
 plugins:
   - jekyll-feed
 
